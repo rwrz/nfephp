@@ -1,9 +1,9 @@
 {
-    "name": "nfephp-org/nfephp",
+    "name": "rwrz/nfephp",
     "type": "library",
-    "description": "NFePHP é uma API para gerenciamento das comunicações entre o emitente de NFe e os serviços dos SEFAZ estaduais. Inteiramente construido em PHP para rodar sob qualquer sistema operacional.",
+    "description": "Versão idêntica do NFePHP sem o ServiceMAnager 2.5 como dependência.",
     "keywords": ["nfe","sped","nfephp"],
-    "homepage": "https://github.com/nfephp-org/nfephp",
+    "homepage": "https://github.com/rwrz/nfephp",
     "license": ["GPL-3.0+","LGPL-3.0+"],
     "authors": [
         {
